@@ -1,0 +1,1 @@
+The proposed system should visualize and analyze OPC UA standard specification documents and provides the functionality of parsing to create a vocabulary and allowing the user to edit vocabularies. This process should be supported with existing fundamental ontologies to simplify the integration into existing conceptual models.
