@@ -1,1 +1,9 @@
-The proposed system should visualize and analyze OPC UA standard specification documents and provides the functionality of parsing to create a vocabulary and allowing the user to edit vocabularies. This process should be supported with existing fundamental ontologies to simplify the integration into existing conceptual models.
+Suppose we have different devices in factory that communicate between each other. Standard OPC UA defines this communication. And it is described in different formats (XML, CSV ...), such files contain information such as data types and which events to fire.
+Goal: create method to create ontologies for the standards. OPC UA is just our use case our test standard.
+Why ontology to simplify the integration into existing conceptual models.
+
+
+Main consumer - integrator or semantic web scientists. that can upload standard in schema and instances (devices) validate them.
+Then system parses it and visualizes it in some format, which allows to edit it. and finally we validate resulting ontology and exporting it in different formats.
+It is saved into storage and we can query it using SPARQL.
+
