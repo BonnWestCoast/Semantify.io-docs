@@ -13,3 +13,14 @@ Poster / Deployment | 01.08.2016 - 31.08.2016
 Final presentation | 01.09.2016 - 27.09.2016
 
 # Role
+
+Role|Shinho Kang|Aleksandr Korovin|Alexey Karpov|Omar Trinidad Mendez
+---|---|---|---|---
+Use Case||V||
+Requirements|V|||V
+Architecture Design||V||
+Time Plan|V|||
+Test Cases|||V|
+Documentation|V|||
+Poster||||V
+Final Presentation|V|V|V|V
